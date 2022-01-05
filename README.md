@@ -2,17 +2,15 @@
 
 I'm a passionate FullStack developer from India 🇮🇳
 
-- 🔭 I’m currently working on Heptagon
-- 🌱 I’m currently learning NodeJs and AWS Lambda
-- 💬 Ask me about Laravel Education
-- 📫 How to reach me: kumarwindows11@gmail.com
-- ⚡ Fun fact: Love to code!
-
 **About me**
 
 - 💼 Senior Software Developer at [Heptagon](http://heptagon.in/)
 - ❤️ I love writing PHP, and building fun experiments on weekends
+- 🔭 I’m currently working on [Laravel dynamic response cache](https://github.com/theriddleofenigma/laravel-rache).
+- 🌱 I’m currently learning NodeJs and AWS Lambda
 - 💬 Ask me about anything [here](https://github.com/theriddleofenigma/theriddleofenigma/issues)
+- 📫 How to reach me: kumarwindows11@gmail.com
+- ⚡ Fun fact: Love to code!
 
 
 **Languages and Tools:**  
