@@ -38,6 +38,6 @@ I'm a passionate FullStack developer from India 🇮🇳
 <br />
 <br />
 
-<a href="https://twitter.com/theriddleofenigma">
+<a href="https://twitter.com/kumaravelk011">
   <img align="right" alt="Kumaravel | Twitter" width="21px" src="https://raw.githubusercontent.com/theriddleofenigma/theriddleofenigma/master/assets/twitter.svg" />
 </a>
