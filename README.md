@@ -1,16 +1,12 @@
 ### Hi there 👋
 
+I'm a passionate FullStack developer from India 🇮🇳
+
 - 🔭 I’m currently working on Heptagon
 - 🌱 I’m currently learning NodeJs and AWS Lambda
 - 💬 Ask me about Laravel Education
 - 📫 How to reach me: kumarwindows11@gmail.com
 - ⚡ Fun fact: Love to code!
-
-<p align="center"><a href="https://theriddleofenigma.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-I'm a passionate FullStack developer from India 🇮🇳
 
 **About me**
 
