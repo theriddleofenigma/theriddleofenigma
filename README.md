@@ -11,9 +11,7 @@ I'm a passionate FullStack developer from India 🇮🇳
 **About me**
 
 - 💼 Senior Software Developer at [Heptagon](http://heptagon.in/)
-
 - ❤️ I love writing PHP, and building fun experiments on weekends
-
 - 💬 Ask me about anything [here](https://github.com/theriddleofenigma/theriddleofenigma/issues)
 
 
@@ -29,8 +27,8 @@ I'm a passionate FullStack developer from India 🇮🇳
 | <a href="https://github.com/theriddleofenigma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=theriddleofenigma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kumaravel's github stats" /></a> | <a href="https://github.com/theriddleofenigma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theriddleofenigma&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
+#### Top Repositories
 
 <a href="https://github.com/theriddleofenigma/laravel-google-chat-log">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theriddleofenigma&repo=laravel-google-chat-log&theme=buefy" />
