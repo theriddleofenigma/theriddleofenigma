@@ -4,7 +4,7 @@ I'm a passionate FullStack developer from India 🇮🇳
 
 **About me**
 
-- 💼 Senior Software Developer at [Heptagon](http://heptagon.in/)
+- 💼 Lead Software Developer at [Heptagon](http://heptagon.in/)
 - ❤️ I love writing PHP, and building fun experiments on weekends
 - 🔭 I’m currently working on [Laravel dynamic response cache](https://github.com/theriddleofenigma/laravel-rache).
 - 🌱 I’m currently learning NodeJs and AWS Lambda
