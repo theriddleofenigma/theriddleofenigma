@@ -6,10 +6,10 @@ I'm a passionate FullStack developer from India 🇮🇳
 
 - 💼 Lead Software Developer at [Heptagon](http://heptagon.in/)
 - ❤️ I love writing PHP, and building fun experiments on weekends
-- 🔭 I’m currently working on [Laravel dynamic response cache](https://github.com/theriddleofenigma/laravel-rache).
-- 🌱 I’m currently learning NodeJs and AWS Lambda
+- 🔭 I’m currently working on personal website for [kumaravel.dev](https://kumaravel.dev), (in-progress).
+- 🌱 I’m currently learning Angular and Design Patterns in PHP
 - 💬 Ask me about anything [here](https://github.com/theriddleofenigma/theriddleofenigma/issues)
-- 📫 How to reach me: kumaravel@bepro.today
+- 📫 How to reach me: me@kumaravel.dev
 - ⚡ Fun fact: Love to code!
 
 
