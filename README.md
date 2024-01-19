@@ -4,12 +4,12 @@ I'm a passionate FullStack developer from India 🇮🇳
 
 **About me**
 
-- 💼 Lead Software Developer at [Heptagon](http://heptagon.in/)
-- ❤️ I love writing PHP, and building fun experiments on weekends
-- 🔭 I’m currently working on personal website for [kumaravel.dev](https://kumaravel.dev), (in-progress).
-- 🌱 I’m currently learning Angular and Design Patterns in PHP
+- 💼 Lead Software Developer at [Heptagon](https://heptagon.in/), now merged to [ConneqtCorp](https://www.conneqtcorp.com/)
+- ❤️ I love writing PHP (mostly TALL stack), and building fun experiments on weekends
+- 🔭 I’m currently working on my personal website, [kumaravel.dev](https://kumaravel.dev), (in-progress).
+- 🌱 I’m currently learning ThreeJS and teaching [laravel livewire in tamil](https://kumaravel.dev/courses/livewire)
 - 💬 Ask me about anything [here](https://github.com/theriddleofenigma/theriddleofenigma/issues)
-- 📫 How to reach me: me@kumaravel.dev
+- 📫 How to reach me: hello@kumaravel.dev
 - ⚡ Fun fact: Love to code!
 
 
